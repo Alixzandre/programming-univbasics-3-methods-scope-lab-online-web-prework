@@ -10,4 +10,7 @@ def toadstool
 end
 
 def link
-  cool =
+  cool = "It's Dangerous To Go Alone! Take This."
+puts cool
+end
+
