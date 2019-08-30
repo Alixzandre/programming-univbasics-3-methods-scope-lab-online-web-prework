@@ -14,3 +14,7 @@ def link
 puts cool
 end
 
+def any_phrase(phrase)
+  puts phrase
+end
+  
